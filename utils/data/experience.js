@@ -1,4 +1,4 @@
-export const experiences = [
+/*export const experiences = [
   {
     id: 1,
     title: 'Software Engineer I',
@@ -17,4 +17,5 @@ export const experiences = [
     company: "Code and build something in everyday.",
     duration: "(Jan 2018 - Present)"
   }
-]
+]*/
+export const experiences = []
