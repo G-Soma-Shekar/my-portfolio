@@ -34,7 +34,7 @@ I'm a Computer Science and Engineering graduate with a strong interest in Python
 
 ## Live Demo
 
-🚀 **[View my portfolio](https://YOUR-VERCEL-ADDRESS.vercel.app)**
+🚀 **[View my portfolio](https://gadigesomashekar.vercel.app)**
 
 ---
 
@@ -183,7 +183,7 @@ Create a `.env` file in the project root:
 
 ```env
 # Public address of the site (use http://localhost:3000 while developing)
-NEXT_PUBLIC_APP_URL=https://YOUR-VERCEL-ADDRESS.vercel.app
+NEXT_PUBLIC_APP_URL=https://gadigesomashekar.vercel.app
 
 # Gmail account that receives messages from the contact form
 EMAIL_ADDRESS=your_email@gmail.com
